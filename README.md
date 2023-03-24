@@ -1,5 +1,5 @@
 # deeplandslide
-The source code for Deep Evidential Remote Sensing Landslide Classification with A New Belief Divergence and Interpretability Improved Three-Branched Evidential Fusion (Public after acceptance)
+This is the source codebase for Deep Evidential Remote Sensing Landslide Classification with A New Belief Divergence and Interpretability Improved Three-Branched Evidential Fusion. 
 
 From the concerns of copyright (since it majorly contributes from MMCLASSIFICATION), the network traning and testing codes are not published. But one can reproduce our experiments with the aid of OpenMMLab's Image Classification Toolbox and Benchmark, which is avaliable at https://github.com/open-mmlab/mmclassification . 
 
