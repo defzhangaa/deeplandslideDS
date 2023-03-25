@@ -3,7 +3,7 @@ This is the source codebase for Deep Evidential Remote Sensing Landslide Classif
 
 From the concerns of copyright (since it majorly contributes from MMCLASSIFICATION), the network traning and testing codes are not published in this repo. But one can reproduce our experiments with the guidance of OpenMMLab's Image Classification Toolbox and Benchmark, which is avaliable at https://github.com/open-mmlab/mmclassification . 
 
-The remote sensing images after channel-wise fusion now can be avaliable, since we have uploaded the source code for multi-scale visual saliency, which can be ready for channel-wise fusion. The original landslide images are avaliable in [1] at http://gpcv.whu.edu.cn/data/Bijie_pages.html . 
+The remote sensing images after channel-wise fusion now can be avaliable, since we have uploaded the source code for multi-scale visual saliency (multiscale_saliency_grad.m), which can be ready for channel-wise fusion. The original landslide images are avaliable in [1] at http://gpcv.whu.edu.cn/data/Bijie_pages.html . 
 
 Similarily from the concerns of data originality, we will publish our source code for the proposed interpretability improved three-branched evidential fusion algorithm after acceptance. 
 
