@@ -1,5 +1,5 @@
 # deeplandslideDS
-This is the source codebase for A Deep Evidence-theoretic Remote Sensing Landslide Image Classification Framework with A New Belief Divergence, Multi-scale Visual Saliency and An Improved Three-branched Fusion Model. 
+This is the source codebase for: A Deep Evidence-theoretic Remote Sensing Landslide Image Classification Frame with a New Belief Divergence, Multi-scale Visual Saliency and an Improved Three-branched Fusion Model. 
 
 **IMPORTANT**: The experiments of this paper can be repeated on your platform with the following steps: 
 
