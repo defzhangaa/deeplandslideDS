@@ -7,7 +7,7 @@ This is the source codebase for: A Deep Evidence-theoretic Remote Sensing Landsl
 
 **IMPORTANT**: The experiments of this paper can be repeated on your platform with the following steps: 
 
-1. Download the Bijie landslide image dataset, which is avaliable in [1] at http://gpcv.whu.edu.cn/data/Bijie_pages.html . 
+1. Download the Bijie landslide image dataset, which is avaliable in [1] at http://gpcv.whu.edu.cn/data/Bijie_pages.html *. 
 
 2. Use the code multiscale_saliency_grad.m to obtain multi-scale visual saliency. Then the remote sensing images after channel-wise fusion can be avaliable.  
 
@@ -16,3 +16,5 @@ This is the source codebase for: A Deep Evidence-theoretic Remote Sensing Landsl
 4. Fuse the decisions from deep neural networks with the proposed three-branched fusion model (network_fusion.py). 
 
 [1] Ji, S., Yu, D., Shen, C., Li, W., & Xu, Q. Landslide detection from an open satellite imagery and digital elevation model dataset using attention boosted convolutional neural networks. Landslides, 1-16, 2020. 
+
+* In Sep 2023, the website of Bijie dataset seems unaccesible. You may contact the authors for this dataset at zhangjx283(at)mail2.sysu.edu.cn
