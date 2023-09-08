@@ -11,7 +11,7 @@ This is the source codebase for: A Deep Evidence-theoretic Remote Sensing Landsl
 
 2. Use the code multiscale_saliency_grad.m to obtain multi-scale visual saliency. Then the remote sensing images after channel-wise fusion can be avaliable.  
 
-3. Train the deep neural networks using fused images with the source code (in the folder Awesome-Backbones-main) and initial weights in OpenMMLab's Image Classification Toolbox and Benchmark, which is avaliable at https://github.com/open-mmlab/mmclassification (Chinese users can use https://github.com/Fafa-DL/Awesome-Backbones). 
+3. Train the deep neural networks using fused images with the source code (in the folder Awesome-Backbones-main, which is from repo https://github.com/Fafa-DL/Awesome-Backbones) and initial weights in OpenMMLab's Image Classification Toolbox and Benchmark, which is avaliable at https://github.com/open-mmlab/mmclassification. 
 
 4. Fuse the decisions from deep neural networks with the proposed three-branched fusion model (network_fusion.py). 
 
