@@ -2,7 +2,7 @@
 CONGRATULATIONS! The present study has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS) in Jan 12 2024.
 The published version will be uploaded in this repo as long as available. 
 
-This is the source codebase for: A Deep Evidence-theoretic Remote Sensing Landslide Image Classification Frame with a New Belief Divergence, Multi-scale Visual Saliency and an Improved Three-branched Fusion Model (undergoing review). 
+This is the source codebase for: A Deep Evidence-theoretic Remote Sensing Landslide Image Classification Frame with a New Belief Divergence, Multi-scale Visual Saliency and an Improved Three-branched Fusion. 
 
 
 <img width="889" alt="fig000_1" src="https://github.com/defzhangaa/deeplandslideDS/assets/128769580/7e266e86-0a20-4524-aaf1-0cc3acecbfb5">
