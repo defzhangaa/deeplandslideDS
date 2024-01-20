@@ -1,6 +1,6 @@
 # deeplandslideDS
 Jan 20 2024: **New Status:** This study has been published online as early access in IEEE Xplore: https://doi.org/10.1109/JSTARS.2024.3354455 .
-We sincerely thank the timely help of Prof. Lianmeng Jiao from Northwestern Polytechnical University (NPU) for improving our work. 
+We sincerely thank the timely help of Prof. Lianmeng Jiao from Northwestern Polytechnical University (NPU) for improving the paper's quality. 
 
 Jan 12 2024: **CONGRATULATIONS!** The present study has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS) in Jan 12 2024.
 The published version will be uploaded in this repo as long as available. 
