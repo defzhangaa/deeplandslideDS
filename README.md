@@ -1,4 +1,6 @@
 # deeplandslideDS
+Feb 02 2024: **New Status:** The final paper has been published by IEEE. 
+
 Jan 20 2024: **New Status:** This study has been published online as early access in IEEE Xplore: https://doi.org/10.1109/JSTARS.2024.3354455 .
 We sincerely thank the timely help of Prof. Lianmeng Jiao from Northwestern Polytechnical University (NPU) for improving the paper's quality. 
 
