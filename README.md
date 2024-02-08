@@ -23,6 +23,8 @@ This is the source codebase for: Deep Evidential Remote Sensing Landslide Image 
 
 4. Fuse the decisions from deep neural networks with the proposed three-branched fusion model (network_fusion.py). 
 
+Reference: 
+
 [1] Ji, S., Yu, D., Shen, C., Li, W., & Xu, Q. Landslide detection from an open satellite imagery and digital elevation model dataset using attention boosted convolutional neural networks. Landslides, 1-16, 2020. 
 
 * In Sep 2023, the website of Bijie dataset seems unaccesible. You may contact the authors for this dataset at zhangjx283(at)mail2.sysu.edu.cn
