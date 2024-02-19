@@ -12,9 +12,6 @@ The published version will be uploaded in this repo as long as available.
 **This is the source codebase for: Deep Evidential Remote Sensing Landslide Image Classification With a New Divergence, Multi-Scale Saliency and an Improved Three-Branched Fusion.** 
 
 
-<img width="889" alt="fig000_1" src="https://github.com/defzhangaa/deeplandslideDS/assets/128769580/7e266e86-0a20-4524-aaf1-0cc3acecbfb5">
-
-
 **IMPORTANT**: The experiments of this paper can be repeated on your platform with the following steps: 
 
 1. Download the Bijie landslide image dataset, which is avaliable in [1] at http://gpcv.whu.edu.cn/data/Bijie_pages.html *. 
@@ -30,3 +27,5 @@ Reference:
 [1] Ji, S., Yu, D., Shen, C., Li, W., & Xu, Q. Landslide detection from an open satellite imagery and digital elevation model dataset using attention boosted convolutional neural networks. Landslides, 1-16, 2020. 
 
 * In Sep 2023, the website of Bijie dataset seems unaccesible. You may contact the authors for this dataset at zhangjx283(at)mail2.sysu.edu.cn
+
+<img width="889" alt="fig000_1" src="https://github.com/defzhangaa/deeplandslideDS/assets/128769580/7e266e86-0a20-4524-aaf1-0cc3acecbfb5">
