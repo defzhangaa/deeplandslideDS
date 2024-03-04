@@ -1,5 +1,5 @@
 # deeplandslideDS
-This is the source codebase for: **Deep Evidential Remote Sensing Landslide Image Classification With a New Divergence, Multi-Scale Saliency and an Improved Three-Branched Fusion.** This work has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS) in Jan 12 2024, and published online in IEEE Xplore: https://doi.org/10.1109/JSTARS.2024.3354455 . We sincerely thank the timely help of Prof. Lianmeng Jiao from Northwestern Polytechnical University (NPU) for improving the paper's quality. 
+This is the source codebase for: **Deep Evidential Remote Sensing Landslide Image Classification With a New Divergence, Multi-Scale Saliency and an Improved Three-Branched Fusion.** This work has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS) in Jan 12 2024 at https://doi.org/10.1109/JSTARS.2024.3354455. We sincerely thank the timely help of Prof. Lianmeng Jiao from Northwestern Polytechnical University (NPU) for improving the paper's quality. 
 
 
 **Video:** https://www.bilibili.com/video/BV1nC4y1673W/?spm_id_from=333.999.0.0&vd_source=99d771014e44a2063a6907c1ea2fa567 .
