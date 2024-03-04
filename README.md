@@ -1,27 +1,20 @@
 # deeplandslideDS
-**This is the source codebase for: Deep Evidential Remote Sensing Landslide Image Classification With a New Divergence, Multi-Scale Saliency and an Improved Three-Branched Fusion.** 
-
-**Video:** https://www.bilibili.com/video/BV1nC4y1673W/?spm_id_from=333.999.0.0&vd_source=99d771014e44a2063a6907c1ea2fa567 .
-
-**Publishing procedure:**
-
-Feb 02 2024: This work has been published online in IEEE Xplore: https://doi.org/10.1109/JSTARS.2024.3354455 . 
-
+**This is the source codebase for: Deep Evidential Remote Sensing Landslide Image Classification With a New Divergence, Multi-Scale Saliency and an Improved Three-Branched Fusion.** This work has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS) in Jan 12 2024, and published online in IEEE Xplore: https://doi.org/10.1109/JSTARS.2024.3354455 .   
 We sincerely thank the timely help of Prof. Lianmeng Jiao from Northwestern Polytechnical University (NPU) for improving the paper's quality. 
 
-Jan 12 2024: CONGRATULATIONS! The present study has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS) in Jan 12 2024.
 
-The published version will be uploaded in this repo as long as available. 
+**Video:** https://www.bilibili.com/video/BV1nC4y1673W/?spm_id_from=333.999.0.0&vd_source=99d771014e44a2063a6907c1ea2fa567 .
 
 **Graphical abstract:**
 
 <img width="1200" alt="fig000_1" src="https://github.com/defzhangaa/deeplandslideDS/assets/128769580/7e266e86-0a20-4524-aaf1-0cc3acecbfb5">
 
+**Post:**
 
 <img width="1240" alt="海报jstars" src="https://github.com/defzhangaa/deeplandslideDS/assets/128769580/970f58cd-e102-4b05-8502-711f93310092">
 
 
-**HOW TO USE**: The experiments of this paper can be repeated on your platform with the following steps: 
+**HOW TO USE THIS REPO**: The experiments of this paper can be repeated on your platform with the following steps: 
 
 1. Download the Bijie landslide image dataset, which is avaliable in [1] at http://gpcv.whu.edu.cn/data/Bijie_pages.html *. 
 
@@ -35,7 +28,15 @@ The published version will be uploaded in this repo as long as available.
 
 [1] Ji, S., Yu, D., Shen, C., Li, W., & Xu, Q. Landslide detection from an open satellite imagery and digital elevation model dataset using attention boosted convolutional neural networks. Landslides, 1-16, 2020. 
 
-**Please cite this paper if this code contributes to your research:**
-
-@article{zhang2024deep,  title={Deep Evidential Remote Sensing Landslide Image Classification With a New Divergence, Multi-Scale Saliency and an Improved Three-Branched Fusion},  author={Zhang, Jiaxu and Cui, Qi and Ma, Xiaojian},  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},  volume={69},  pages={3799-3820},  year={2024},  month={Jan.},  publisher={IEEE}  }
+**Please cite this paper **if this code contributes to your research:   
+@article{zhang2024deep,   
+title={Deep Evidential Remote Sensing Landslide Image Classification With a New Divergence, Multi-Scale Saliency and an Improved Three-Branched Fusion},   
+author={Zhang, Jiaxu and Cui, Qi and Ma, Xiaojian},   
+journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
+volume={69},   
+pages={3799-3820},   
+year={2024},   
+month={Jan.},   
+publisher={IEEE}   
+}
 
