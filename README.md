@@ -31,8 +31,6 @@ author={Zhang, Jiaxu and Cui, Qi and Ma, Xiaojian},
 journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
 volume={69},   
 pages={3799-3820},   
-year={2024},   
-month={Jan.},   
-publisher={IEEE}   
+year={2024}    
 }
 
